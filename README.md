@@ -9,3 +9,5 @@ Interactive table: this allows to filter the raw data set by the construction ye
 Interactive histogram: by using the dropdown, we can select one of multiple factors including the number of bedrooms, bathrooms, floors, and number of spots with a view at the property and compare these to the selling price. This shows how common certain features are at each price point by using a count function.
 
 Interactive scatterplot: by using the dropdown, we can select one of multiple factors including the number of living, lot and above square footage and compare these to the selling price. This shows how common certain features are at each price point by focusing on data distribution. We do all this while deviding the properties in age groups, these are determined by the difference in the year the property was built and our current year, 2023.
+
+Link to app: https://sprint-6-project-v1.onrender.com
